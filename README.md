@@ -36,7 +36,7 @@ Luego abre [http://localhost:4200](http://localhost:4200) en tu navegador.
 
 * **[Angular](https://angular.dev/)**
 * **[TypeScript](https://www.typescriptlang.org/)**
-* **HTML5 / CSS3**
+* **HTML5 / CSS3 / SCSS**
 * **[Node.js / npm](https://nodejs.org/es)**
 
 ## Wiki 📖
